@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "js-ffmpeg": "^0.0.36",
+    "nodemon": "^2.0.19",
+    "thumbsupply": "^0.4.0"
+  }
+}
